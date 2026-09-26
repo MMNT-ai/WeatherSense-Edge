@@ -102,7 +102,6 @@ weather-forecasting-edge-ai/
 │       └── weather_processed.csv
 │
 ├── ml/
-│   ├── ML Model.ipynb
 │   ├── ML Model_documented.ipynb
 │   ├── inference.py
 │   └── temperature_linear_model.pkl
